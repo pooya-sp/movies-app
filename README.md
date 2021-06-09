@@ -1,16 +1,28 @@
 # movies_app
 
-A new Flutter project.
+A Flutter app showcasing a list of popular movies from TMDB.
 
-## Getting Started
+This project is still in progress so it might have some bugs, but I will fix them soon.
 
-This project is a starting point for a Flutter application.
+##Features
 
-A few resources to get you started if this is your first Flutter project:
+latest movies and series.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Beautiful UI with multiple themes including dark theme and light theme.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+search movies.
+
+multiple languages including English and Persian.
+
+showing the latest trailers and teasers.
+
+
+##Screenshots
+
+light theme -
+
+![light-mode](https://user-images.githubusercontent.com/85636432/121408265-77036580-c975-11eb-8f92-394d697671ac.jpeg)
+
+dark theme -
+
+![dark-mode](https://user-images.githubusercontent.com/85636432/121408767-fd1fac00-c975-11eb-8e87-b469effdc566.jpeg)
