@@ -25,3 +25,10 @@ light theme -
 dark theme -
 
 ![dark-mode](https://user-images.githubusercontent.com/85636432/121408767-fd1fac00-c975-11eb-8e87-b469effdc566.jpeg)
+
+## packages ## 
+
+I use Provider package for state management,sqflite and hive for database,
+Sizer for make fonts adaptive,http package for api requests,
+webview_flutter for webpage,chached_network_image for cache and save images localy,
+youtube_flutter_player for play youtube videos...
