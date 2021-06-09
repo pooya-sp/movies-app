@@ -29,9 +29,16 @@ dark theme -
 ## packages ## 
 
 I use Provider package for state management,
+
 Sqflite and Hive for database,
+
 Sizer for make fonts adaptive,
+
 Http package for api requests,
+
 webview_flutter for webpage,
+
 chached_network_image for cache and save images localy,
+
 youtube_flutter_player for play youtube videos...
+
